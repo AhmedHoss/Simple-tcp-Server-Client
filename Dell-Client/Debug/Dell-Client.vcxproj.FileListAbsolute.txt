@@ -1,0 +1,2 @@
+C:\Users\Shika\source\repos\Dell-Client\Debug\Dell-Client.exe
+C:\Users\Shika\source\repos\Dell-Client\Debug\Dell-Client.pdb

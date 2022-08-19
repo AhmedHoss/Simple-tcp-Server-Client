@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Shika\source\repos\DellServer\main.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Shika\source\repos\DellServer\main.cpp(75,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DellServer.vcxproj -> C:\Users\Shika\source\repos\DellServer\Debug\DellServer.exe

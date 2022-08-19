@@ -1,0 +1,2 @@
+C:\Users\Shika\source\repos\DellServer\Debug\DellServer.exe
+C:\Users\Shika\source\repos\DellServer\Debug\DellServer.pdb
